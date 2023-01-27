@@ -2,19 +2,19 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "Quizzery",
-  "short_name": "Quizzery",
+  "name": "KTK- Key Teaching Knowledge",
+  "short_name": "KTK- Key Teaching Knowledge",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "itunes",
-      "id": "com.essamos.quizzery"
+      "id": "com.keyteachingknowledge.ktk"
     },
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.essamos.quizzery",
-      "id": "com.essamos.quizzery"
+      "url": "http://play.google.com/store/apps/details?id=com.keyteachingknowledge.ktk",
+      "id": "com.keyteachingknowledge.ktk"
     }
   ],
   "prefer_related_applications": true,
